@@ -1,0 +1,5 @@
+
+[local]
+ansible-test_ubuntu ansible_connection=docker
+ansible-test_centos ansible_connection=docker
+ansible-test_debian ansible_connection=docker
